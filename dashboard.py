@@ -26,10 +26,10 @@ st.subheader('Tadaa...')
 col1, col2 = st.columns(2)
 
 with col1:
-    st.metric("Peminjaman: ", value=0)
+    st.metric("Data: ", value=0)
 
 with col2:
-    st.metric("Jam: ", value=0)
+    st.metric("Data Juga: ", value=0)
 
 x = np.linspace(-2 * np.pi, 2 * np.pi, 1000)  # Generating x values from -2*pi to 2*pi
 y = np.sin(x)  # Calculating sin(x) values

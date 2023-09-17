@@ -1,4 +1,4 @@
 
 ## Streamlit Cloud
-Link Streamlit https://nugroho-dashboard.streamlit.app
+Link Streamlit https://nugroho.streamlit.app
 
